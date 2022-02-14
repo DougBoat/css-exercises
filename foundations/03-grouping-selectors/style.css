@@ -1,0 +1,15 @@
+/*style.css */
+
+.button {
+font-size: 28px;
+font-family: helvetica,times new roman,sans-serif;
+}
+.button1 {
+    background-color: black;
+    color:white
+}
+.button2 {
+    background-color: yellow;
+    color:black
+
+}
