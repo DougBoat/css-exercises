@@ -1,0 +1,9 @@
+/* style.css */
+img[class="avatar proportioned"]{
+    height: auto;
+    width: 300px;
+}
+img[class="avatar distorted"]{
+    height: 400px;
+    width: 200px;
+}
